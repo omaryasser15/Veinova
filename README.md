@@ -5,9 +5,9 @@ Veinova is a mobile blood bank app that connects blood donors, patients, and cha
 
 Team members:
 Shrouq Ahmed Abdel Moneim Al-Naqeeb
-Sara Walid Yousef Mohamed
-Mohamed Hamada Abdel Latif Mustafa 
-Omar Yasser Mohamed Mohamed
+ - Sara Walid Yousef Mohamed
+ - Mohamed Hamada Abdel Latif Mustafa 
+ - Omar Yasser Mohamed Mohamed
 
 Lecturer's name:
 Eng/ Mohamed Kamar
