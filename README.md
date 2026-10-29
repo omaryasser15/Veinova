@@ -10,10 +10,10 @@ Veinova is a mobile blood bank application designed to connect blood donors, pat
 
 | Name | Role |
 |---|---|
-| Omar Yasser | Team Leader & UI/UX Designer |
-| [Member 2 Name] | UI/UX Designer |
-| [Member 3 Name] | UI/UX Designer |
-| [Member 4 Name] | UI/UX Designer |
+| Omar Yasser Mohamed Mohamed | Team Leader & UI/UX Designer |
+| Shrouq Ahmed Abdel Moneim Al-Naqeeb | UI/UX Designer |
+| Sara Walid Yousef Mohamed | UI/UX Designer |
+| Mohamed Hamada Abdel Latif Mustafa | UI/UX Designer |
 
 ## 4. Work Plan
 
@@ -30,36 +30,24 @@ Veinova is a mobile blood bank application designed to connect blood donors, pat
 
 ## 5. Roles & Responsibilities
 
-The project will be divided among the four team members to ensure balanced workloads, clear ownership, and effective collaboration. All members will contribute to project discussions, design reviews, and the overall user experience.
+### Team Leader – Omar Yasser
+- Coordinate the team, organize tasks, and follow up on project progress.
+- Participate alongside all team members in every phase of the UX process and UI design.
+- Ensure effective communication, collaboration, and timely project delivery.
+- Help review design decisions and organize project documentation.
 
-### 1. Omar Yasser – Team Leader & UI/UX Designer
-- Coordinate the team and distribute tasks among the four members.
-- Participate in user research, UX design, UI design, and prototyping.
-- Track project progress and follow up on deadlines.
-- Facilitate communication and help resolve project-related issues.
-- Review the overall design and coordinate final deliverables.
+### UI/UX Design Team
+All four team members will collaborate throughout the entire project, sharing responsibilities across all UX and UI design phases.
 
-### 2. [Member 2 Name] – UI/UX Designer
-- Contribute to user research and competitor analysis.
-- Help identify user needs and define design requirements.
-- Create user personas and empathy maps.
-- Collaborate with the team on UX decisions.
+- **UX Research:** Collaborate on user research, competitor analysis, and identifying user needs.
+- **UX Design:** Work together on user personas, empathy maps, user flows, information architecture, and wireframes.
+- **UI Design:** Collaborate on visual design, screen layouts, typography, colors, and design system components.
+- **Prototyping & Testing:** Work together to create interactive prototypes, conduct usability testing, and improve the user experience based on feedback.
+- **Documentation & Presentation:** Contribute collectively to project documentation and the final presentation.
 
-### 3. [Member 3 Name] – UI/UX Designer
-- Develop user flows and information architecture.
-- Create wireframes for the main application screens.
-- Organize navigation and user interactions.
-- Collaborate on improving the usability of the application.
+**Team Collaboration:** Tasks will be organized and distributed to ensure balanced workloads, while all members actively contribute to UX research, UX design, and UI design throughout the project.
 
-### 4. [Member 4 Name] – UI/UX Designer
-- Contribute to UI design and visual consistency.
-- Help develop the design system and reusable components.
-- Participate in interactive prototyping and usability testing.
-- Assist with design documentation and final presentation materials.
-
-**Note:** Task assignments are proposed responsibilities. All members will collaborate throughout the project, and tasks may be adjusted based on workload and team agreement.
-
-## 6. KPIs (Key Performance Indicators)
+## 6. KPIs
 
 The following KPIs will be used to monitor project progress and evaluate the quality of the final deliverables:
 
@@ -73,14 +61,5 @@ The following KPIs will be used to monitor project progress and evaluate the qua
 
 ## 7. Instructor
 
-**Instructor Name:** [Instructor Name]
-
-## 8. Project Files
-
-Project files and deliverables will be added as the project progresses.
-
-- **Figma Design:** To be added.
-- **Interactive Prototype:** To be added.
-- **Project Presentation:** To be added.
-- **Project Documentation:** To be added.
+**Instructor Name:** Eng / Mohamed Kamar
 
